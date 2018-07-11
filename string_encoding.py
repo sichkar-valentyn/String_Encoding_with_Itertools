@@ -1,3 +1,16 @@
+# File: string_encoding.py
+# Description: Encoding string by grouping repeated letters with itertool library
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Encoding string by grouping repeated letters with itertool library // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/String_Encoding_with_Itertools (date of access: XX.XX.XXXX)
+
+
+
 # Implementing the task
 # Encoding input string
 # Finding all repeated letters and calculating them
