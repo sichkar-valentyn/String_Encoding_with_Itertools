@@ -1,6 +1,9 @@
 # String Encoding with Itertools
 Encoding string by grouping repeated letters with itertool library.
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Encoding string by grouping repeated letters with itertool library // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/String_Encoding_with_Itertools (date of access: XX.XX.XXXX)
 
